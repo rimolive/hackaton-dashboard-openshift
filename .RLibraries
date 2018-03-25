@@ -1,0 +1,5 @@
+leaflet
+RColorBrewer
+scales
+lattice
+dplyr
