@@ -3,3 +3,4 @@ RColorBrewer
 scales
 lattice
 dplyr
+DT
